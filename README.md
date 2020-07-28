@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="animation-png-animation-png-hd-png-image-1008.png" align="right" width=35%>
 
 <!--
 **AmanVerma18/AmanVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - facebook:<a href="https://www.facebook.com/profile.php?id=100007365434034">AmanVerma</a>
 - instagram:<a href="https://www.instagram.com/iam.amanverma_">iam.amanverma_</a>
 - linkedin: <a href="https://www.linkedin.com/in/aman-verma-2364831b0">AmanVerma</a>
-<img src="animation-png-animation-png-hd-png-image-1008.png" align="left">
+
