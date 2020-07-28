@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning web development🌐 and ethical hacking👨‍💻
+📫 How to reach me:
+- facebook:<a href="https://www.facebook.com/profile.php?id=100007365434034">AmanVerma</a>
+- instagram:<a href="https://www.instagram.com/iam.amanverma_">iam.amanverma_</a>
+- linkedin: <a href="https://www.linkedin.com/in/aman-verma-2364831b0">AmanVerma</a>
