@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="animation-png-animation-png-hd-png-image-1008.png" align="right" width=35%>
+### Hi there 👋 <img src="animation-png-animation-png-hd-png-image-1008.png" align="left" width=35%>
 
 <!--
 **AmanVerma18/AmanVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
