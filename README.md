@@ -1,4 +1,4 @@
-### Hey, its Aman 😄 <img src="https://github.com/AmanVerma18/AmanVerma18/blob/master/animation-png-animation-png-hd-png-image-1008.PNG" align="left" width=35% height=600px>
+### Hey, its Aman 😄 <img src="https://github.com/AmanVerma18/AmanVerma18/blob/master/animation-png-animation-png-hd-png-image-1008.PNG" align="left" width=35% height=300px>
 
 <!--
 **AmanVerma18/AmanVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
