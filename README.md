@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development 🌐 and ethical hacking 👨‍💻<br>
 📫 How to reach me:
 - facebook:<a href="https://www.facebook.com/profile.php?id=100007365434034"> AmanVerma</a>
-- instagram:<a href="https://www.instagram.com/__amanverma___"> \_\_amanverma___</a>
+- instagram:<a href="https://www.instagram.com/__amanvermaa___"> \_\_amanvermaa___</a>
 - linkedin: <a href="https://www.linkedin.com/in/aman-verma-2364831b0"> AmanVerma</a>
 
