@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning web development 🌐 and ethical hacking 👨‍💻<br>
+- 🌱 I’m currently working on web development 🌐 and ethical hacking 👨‍💻<br>
 📫 How to reach me:
 - facebook:<a href="https://www.facebook.com/profile.php?id=100007365434034"> AmanVerma</a>
 - instagram:<a href="https://www.instagram.com/__amanvermaa___"> \_\_amanvermaa___</a>
