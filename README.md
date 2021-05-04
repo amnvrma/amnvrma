@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - instagram:<a href="https://www.instagram.com/__amanvermaa___"> \_\_amanvermaa___</a>
 - linkedin: <a href="https://www.linkedin.com/in/aman-verma-2364831b0"> AmanVerma</a>
 
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=amnvrma&hide=contribs&count_private=true&theme=tokyonight"></a>
+
